@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+pandas==2.1.1
+requests==2.31.0
+flask==2.3.3
+gunicorn==21.2.0
+python-dotenv==1.0.0
