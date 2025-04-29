@@ -28,3 +28,30 @@
 2025-04-28 16:02:45,179 - birth_rate_extractor - INFO - Total de 18722 registros guardados en la tabla 'crude_birth_rate'
 2025-04-28 16:02:45,183 - birth_rate_extractor - INFO - Proceso de extracción y carga completado con éxito
 2025-04-28 16:02:45,183 - birth_rate_extractor - INFO - Conexión cerrada con PostgreSQL
+2025-04-29 12:23:31,959 - birth_rate_extractor - INFO - Conexión establecida con PostgreSQL
+2025-04-29 12:23:31,959 - birth_rate_extractor - INFO - Descargando CSV desde: https://ourworldindata.org/grapher/crude-birth-rate.csv?v=1&csvType=full&useColumnShortNames=false
+2025-04-29 12:23:33,551 - birth_rate_extractor - INFO - CSV descargado y procesado: 18722 filas, 4 columnas
+2025-04-29 12:23:33,551 - birth_rate_extractor - INFO - Columnas: Entity, Code, Year, Birth rate - Sex: all - Age: all - Variant: estimates
+2025-04-29 12:23:33,554 - birth_rate_extractor - INFO - Tabla 'crude_birth_rate' creada o verificada en PostgreSQL
+2025-04-29 12:23:33,748 - birth_rate_extractor - INFO - Lote 1 insertado: 1000 registros
+2025-04-29 12:23:33,923 - birth_rate_extractor - INFO - Lote 2 insertado: 1000 registros
+2025-04-29 12:23:34,091 - birth_rate_extractor - INFO - Lote 3 insertado: 1000 registros
+2025-04-29 12:23:34,233 - birth_rate_extractor - INFO - Lote 4 insertado: 1000 registros
+2025-04-29 12:23:34,385 - birth_rate_extractor - INFO - Lote 5 insertado: 1000 registros
+2025-04-29 12:23:34,566 - birth_rate_extractor - INFO - Lote 6 insertado: 1000 registros
+2025-04-29 12:23:34,721 - birth_rate_extractor - INFO - Lote 7 insertado: 1000 registros
+2025-04-29 12:23:34,870 - birth_rate_extractor - INFO - Lote 8 insertado: 1000 registros
+2025-04-29 12:23:35,086 - birth_rate_extractor - INFO - Lote 9 insertado: 1000 registros
+2025-04-29 12:23:35,288 - birth_rate_extractor - INFO - Lote 10 insertado: 1000 registros
+2025-04-29 12:23:35,418 - birth_rate_extractor - INFO - Lote 11 insertado: 1000 registros
+2025-04-29 12:23:35,596 - birth_rate_extractor - INFO - Lote 12 insertado: 1000 registros
+2025-04-29 12:23:35,737 - birth_rate_extractor - INFO - Lote 13 insertado: 1000 registros
+2025-04-29 12:23:35,999 - birth_rate_extractor - INFO - Lote 14 insertado: 1000 registros
+2025-04-29 12:23:36,184 - birth_rate_extractor - INFO - Lote 15 insertado: 1000 registros
+2025-04-29 12:23:36,345 - birth_rate_extractor - INFO - Lote 16 insertado: 1000 registros
+2025-04-29 12:23:36,491 - birth_rate_extractor - INFO - Lote 17 insertado: 1000 registros
+2025-04-29 12:23:36,668 - birth_rate_extractor - INFO - Lote 18 insertado: 1000 registros
+2025-04-29 12:23:36,808 - birth_rate_extractor - INFO - Lote 19 insertado: 722 registros
+2025-04-29 12:23:36,808 - birth_rate_extractor - INFO - Total de 18722 registros guardados en la tabla 'crude_birth_rate'
+2025-04-29 12:23:36,809 - birth_rate_extractor - INFO - Proceso de extracción y carga completado con éxito
+2025-04-29 12:23:36,810 - birth_rate_extractor - INFO - Conexión cerrada con PostgreSQL
